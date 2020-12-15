@@ -1,6 +1,14 @@
-ID <- c(1:12,14)
-Alter <- c(20, 23,30,18,19,24,18,19,21,25,19,28,35)
-Lieblingsfarbe <- c('blau','grun','rot','blau','gelb','rot','rot','rot','grun','grun','blau','gelb','blau')
-Lieblingstier <- c('Elefant','Kuh','Hund','Katze','Hund','Hund','Hund','Giraffe','Bar','Zebra','Pferd','Hase', 'Katze')
- data.frame(ID, Alter, Lieblingsfarbe, Lieblingstier)           
- 
+ID, Alter, Lieblingsfarbe, Lieblingstier,
+1, 20, blau, Elefant
+2, 23, grun, Kuh
+3, 30, rot, Hund
+4, 18, blau, Katze
+5, 19, gelb, Hund
+6, 24, rot, Hund
+7, 18, rot, Hund
+8, 19, rot, Giraffe
+9, 21, grun, Bar
+10, 25, grun, Zebra
+11, 19, blau, Pferd
+12, 28, gelb, Hase
+14, 35, blau, Katze
