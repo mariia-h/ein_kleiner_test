@@ -1,0 +1,5 @@
+data <- read.csv("lieblinge.csv")
+print(data)
+plot(data$Lieblingsfarbe)
+plot(data$Lieblingstier)
+mean(data$Alter)
